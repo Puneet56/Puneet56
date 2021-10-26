@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Puneet56
 - 👀 I’m interested in Web Devlopment and reading.
 - 🌱 I’m currently learning ReactJS
-- 📫 Reach me on Instagram [@Puneet.dhiman.127](https://www.instagram.com/puneet.dhiman.127/)
+- 📫 Reach me on Instagram [@Puneet.dhiman.127](https://www.instagram.com/puneet.dhiman.127/), LinkedIn [Puneet dhiman](https://www.linkedin.com/in/puneet-dhiman-9b29a0175/)
+
 
 <!---
 Puneet56/Puneet56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
