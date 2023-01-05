@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puneet56
 - 👀 I’m interested in Web Devlopment.
 - 🌱 React Developer
-- 📫 Reach me on Instagram [@Puneet.dhiman.127](https://www.instagram.com/puneet.dhiman.127/), LinkedIn [Puneet dhiman](https://www.linkedin.com/in/puneet-dhiman-9b29a0175/)
+- 📫 Reach me on Instagram [@Puneet.dhiman.127](https://www.instagram.com/puneet.dhiman.127/), LinkedIn [Puneet dhiman](https://www.linkedin.com/in/puneet-dhiman)
 
 
 <!---
