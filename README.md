@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Puneet56&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Puneet56?theme=dark&font=baloo&extension=null)
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Puneet56?theme=dark&font=baloo&extension=null) -->
 
 <!---
 https://readme-dev.vercel.app/
