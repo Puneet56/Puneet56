@@ -1,2 +1,1 @@
 # Puneet Dhiman
-## Recreational programmer
